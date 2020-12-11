@@ -28,6 +28,7 @@ summarylength = 25
     url     = "contact"
     weight  = 5
 
+
 # Site Params
 [params]
   logo = "images/logo.png"
