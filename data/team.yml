@@ -1,21 +1,21 @@
 enable  : false
 title   : Team that makes the difference.
 members  :
-  - image       : images/team/team-member-one.jpg
+  - image       : https://mdbootstrap.com/img/Photos/Avatars/img%20(4).jpg
     name        : PABLO ESCOBAR
     designation : Creative Director
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
-  - image       : images/team/team-member-two.jpg
+  - image       : https://mdbootstrap.com/img/Photos/Avatars/img%20(8).jpg
     name        : MONTINO RIAU
     designation : Product Manager
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
-  - image       : images/team/team-member-three.jpg
+  - image       : https://mdbootstrap.com/img/Photos/Avatars/img%20(2).jpg
     name        : ALEX NAASRI
     designation : Chief Design Officer
     medium      : https://www.medium.com/

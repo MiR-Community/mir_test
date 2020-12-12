@@ -3,10 +3,13 @@ languageCode = "en-us"
 title = "MiR Community Website"
 theme = "basic"
 relativeURLs = true
+[params]
+author = "Brian Hogan"
+description = "My portfolio site"
 
 [params.footer]
     # Footer Contact Info
     [params.footer.contactInfo]
       title   = "Contact Info"
-      address = "team@mircommunity.com"
+      email = "team@mircommunity.com"
    
