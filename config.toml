@@ -2,3 +2,4 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "MiR Community Website"
 theme = "basic"
+relativeURLs = true
