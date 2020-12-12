@@ -2,7 +2,7 @@ enable  : false
 title   : Team that makes the difference.
 members  :
   - image       : https://mdbootstrap.com/img/Photos/Avatars/img%20(4).jpg
-    name        : PABLO ESCOBAR
+    name        : Dorris Scott
     designation : Creative Director
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
@@ -10,41 +10,27 @@ members  :
     page        : dorris
 
   - image       : https://mdbootstrap.com/img/Photos/Avatars/img%20(8).jpg
-    name        : MONTINO RIAU
+    name        : Silvia Canelón
     designation : Product Manager
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
-    page        : dorris
+    page        : silvia
 
   - image       : https://mdbootstrap.com/img/Photos/Avatars/img%20(2).jpg
-    name        : ALEX NAASRI
+    name        : Yanina Bellini Saibene
     designation : Chief Design Officer
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
-    page        : dorris
-
-  - image       : https://mdbootstrap.com/img/Photos/Avatars/img%20(5).jpg
-    name        : HONGMAN CHIOA
-    designation : UX Researcher
-    medium      : https://www.medium.com/
-    linkedIn    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
-    page        : dorris
+    page        : yanina
 
   - image       : https://mdbootstrap.com/img/Photos/Avatars/img%20(9).jpg
-    name        : SANTIO ANDRESS
+    name        : Liz Hare
     designation : Content Researcher
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
-    page        : dorris
+    page        : liz
 
-  - image       : https://mdbootstrap.com/img/Photos/Avatars/img%20(7).jpg
-    name        : RAMESH PAUL
-    designation : Creative Designer
-    medium      : https://www.medium.com/
-    linkedIn    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
-    page        : dorris
+ 
