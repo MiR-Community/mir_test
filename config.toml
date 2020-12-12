@@ -12,4 +12,25 @@ description = "My portfolio site"
     [params.footer.contactInfo]
       title   = "Contact Info"
       email = "team@mircommunity.com"
-   
+   # Footer Sitemap
+      [params.footer.sitemap]
+        title   = "Sitemap"
+        [[params.footer.sitemap.link]]
+          name = "About Company"
+          url  = "about"
+        [[params.footer.sitemap.link]]
+          name = "Webinars"
+          url  = "webinars"
+        [[params.footer.sitemap.link]]
+          name = "Contact"
+          url  = "contact"
+      # Footer Social Media
+      [params.footer.social]
+        title   = "Social Media"
+        [[params.footer.social.link]]
+          name = "Twitter"
+          url  = "https://twitter.com/miR_community"
+      # Footer Service
+      [params.footer.service]
+        title       = "MiR Community aims to support underrepresented R users around the world."
+        description = "ROXO HUGO | Built with blogdown."

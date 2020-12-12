@@ -1,0 +1,23 @@
+{
+  "name": "mir",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "hugo",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaynaib/mir_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zaynaib/mir_test/issues"
+  },
+  "homepage": "https://github.com/zaynaib/mir_test#readme",
+  "dependencies": {
+    "hugo-cli": "^0.11.0"
+  }
+}
