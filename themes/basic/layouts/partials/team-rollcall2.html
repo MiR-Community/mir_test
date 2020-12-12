@@ -3,11 +3,7 @@
     <h2 class="text-center mx-auto font-weight-bold mb-4 pb-2">Our Team</h2>
     
  
-{{ with .Site.Data.team }}
-{{ range .members}}
-   {{  .name }}
-   {{end}}
-{{ end }}
+
 {{ with .Site.Data.team }}
     <div class="row">
          {{ partial "team-member.html" . }}

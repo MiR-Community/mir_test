@@ -7,6 +7,7 @@ members  :
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
+    page        : dorris
 
   - image       : https://mdbootstrap.com/img/Photos/Avatars/img%20(8).jpg
     name        : MONTINO RIAU
@@ -14,6 +15,7 @@ members  :
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
+    page        : dorris
 
   - image       : https://mdbootstrap.com/img/Photos/Avatars/img%20(2).jpg
     name        : ALEX NAASRI
@@ -21,24 +23,28 @@ members  :
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
+    page        : dorris
 
-  - image       : images/team/team-member-four.jpg
+  - image       : https://mdbootstrap.com/img/Photos/Avatars/img%20(5).jpg
     name        : HONGMAN CHIOA
     designation : UX Researcher
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
+    page        : dorris
 
-  - image       : images/team/team-member-five.jpg
+  - image       : https://mdbootstrap.com/img/Photos/Avatars/img%20(9).jpg
     name        : SANTIO ANDRESS
     designation : Content Researcher
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
+    page        : dorris
 
-  - image       : images/team/team-member-six.jpg
+  - image       : https://mdbootstrap.com/img/Photos/Avatars/img%20(7).jpg
     name        : RAMESH PAUL
     designation : Creative Designer
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
+    page        : dorris

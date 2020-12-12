@@ -8,18 +8,17 @@
           <div
             class="avatar w-100 white d-flex justify-content-center align-items-center"
           >
-            <img
+           <a href="/team/{{.page}}"> <img
               src="{{ .image | absURL }}"
               class="img-fluid rounded-circle z-depth-1"
-            />
+            /></a>
           </div>
           <div class="text-center mt-3">
             <h6 class="font-weight-bold pt-2"> {{  .name }}</h6>
             <p class="text-muted">
               <small
                 ><i
-                  >Lorem ipsum dolor sit amet, consectetur adipiscing
-                  elit.</i
+                  >{{ .designation}}</i
                 ></small
               >
             </p>
