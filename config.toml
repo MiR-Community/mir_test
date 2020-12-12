@@ -3,3 +3,10 @@ languageCode = "en-us"
 title = "MiR Community Website"
 theme = "basic"
 relativeURLs = true
+
+[params.footer]
+    # Footer Contact Info
+    [params.footer.contactInfo]
+      title   = "Contact Info"
+      address = "team@mircommunity.com"
+   
