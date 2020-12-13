@@ -17,9 +17,9 @@ category = "categories"
 
 
 [permalinks]
- posts = "posts/:year/:month/:slug"
- year = "/posts/:slug/"
- month = "/posts/:slug/"
+ webinars = "webinars/:year/:month/:slug"
+ year = "/webinars/:slug/"
+ month = "/webinars/:slug/"
 
 [params.footer]
     # Footer Contact Info
