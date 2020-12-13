@@ -3,9 +3,23 @@ languageCode = "en-us"
 title = "MiR Community Website"
 theme = "basic"
 relativeURLs = true
+
 [params]
 author = "Brian Hogan"
 description = "My portfolio site"
+
+
+[taxonomies]
+year = "year"
+month = "month"
+tag = "tags"
+category = "categories"
+
+
+[permalinks]
+ posts = "posts/:year/:month/:slug"
+ year = "/posts/:slug/"
+ month = "/posts/:slug/"
 
 [params.footer]
     # Footer Contact Info
