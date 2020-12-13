@@ -3,6 +3,12 @@ title: "First Post"
 date: 2020-12-12T23:02:25-06:00
 draft: false
 author: The Child
+categories:
+- Personal
+- Thoughts
+tags:
+- software
+- html
 ---
 
 ### This is where the summary goes.
