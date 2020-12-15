@@ -1,7 +1,9 @@
+@import "variables";
+
 .jumbotron {
-    background-color: #fff;
+    background-color: $body-color;
 }
 
-.test{
-    background-color: green;
+.site-about-title{
+    background-color:$primary-color;
 }
