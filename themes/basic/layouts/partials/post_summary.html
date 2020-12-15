@@ -3,8 +3,8 @@
 
 
 
-
-
+     <!-- Grid column -->
+    <div class="col-lg-4 col-md-12 mb-lg-0 mb-4">
         <!-- Card -->
         <div class="card hoverable">
 
@@ -15,7 +15,7 @@
           <div class="card-body">
 
             <!-- Title -->
-            <a href="#!" class="black-text">{{ .Title }}</a>
+            <a  href="{{ .RelPermalink }}" class="black-text">{{ .Title }}</a>
 
               <time>
                 {{ .Date | dateFormat "January" }}
@@ -24,13 +24,14 @@
             <!-- Text -->
             <p class="card-title text-muted font-small mt-3 mb-2"> {{ .Summary }}</p>
 						
-            <button type="button" class="btn btn-flat text-primary p-0 mx-0">Read more<i class="fa fa-angle-right ml-2"></i></button>
+            <button type="button" class="btn  text-primary p-0 mx-0">  <a  href="{{ .RelPermalink }}" >Read more</a><i class="fa fa-angle-right ml-2"></i></button>
             
           </div>
 
         </div>
         <!-- Card -->
-
+    </div>
+ <!-- Grid column -->
 
 
 
