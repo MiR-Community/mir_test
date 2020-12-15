@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "build": "hugo",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "hugo server --buildDrafts --buildFuture --port 1313"
+
   },
   "repository": {
     "type": "git",
@@ -18,6 +20,7 @@
   },
   "homepage": "https://github.com/zaynaib/mir_test#readme",
   "dependencies": {
-    "hugo-cli": "^0.11.0"
+    "hugo-cli": "^0.11.0",
+    "hugo-extended": "^0.79.0"
   }
 }
