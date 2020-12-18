@@ -7,6 +7,13 @@ relativeURLs = true
 [params]
 author = "Brian Hogan"
 description = "My portfolio site"
+logo = "img/logo.png"
+dateFormat = "26 FEB 1994"
+# Meta data
+# Google Analitycs
+googleAnalitycsID = "Your ID"
+# We're using formspree.io for form handling, paste your formspree url below
+formspreeFormUrl  = "https://formspree.io/myykjpje"
 
 
 [taxonomies]
