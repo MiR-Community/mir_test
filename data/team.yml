@@ -1,7 +1,7 @@
 enable  : false
 title   : Team that makes the difference.
 members  :
-  - image       : https://mdbootstrap.com/img/Photos/Avatars/img%20(4).jpg
+  - image       : /img/team/dorris-headshot.jpg
     name        : Dorris Scott
     designation : Creative Director
     medium      : https://www.medium.com/
@@ -9,7 +9,7 @@ members  :
     instagram   : https://www.instagram.com/
     page        : dorris
 
-  - image       : https://mdbootstrap.com/img/Photos/Avatars/img%20(8).jpg
+  - image       : /img/team/silvia-headshot.png
     name        : Silvia Canelón
     designation : Product Manager
     medium      : https://www.medium.com/
@@ -25,7 +25,7 @@ members  :
     instagram   : https://www.instagram.com/
     page        : yanina
 
-  - image       : https://mdbootstrap.com/img/Photos/Avatars/img%20(9).jpg
+  - image       : /img/team/liz-headshot.jpg
     name        : Liz Hare
     designation : Content Researcher
     medium      : https://www.medium.com/

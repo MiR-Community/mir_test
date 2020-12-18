@@ -6,4 +6,7 @@ name: "Liz Hare"
 draft: false
 ---
 
+![alt](/img/team/liz.jpg)
+
+
 Liz Hare is a statistical geneticist using R for over 15 years to model specialized aspects of working dog behavior and health. She provides breeding program analysis and guidance for implementing selective breeding programs. She is blind and uses R in Emacs with the Emacspeak screen reader and the Emacs Speaks Statistics package for interacting with R. 
