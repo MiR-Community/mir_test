@@ -6,7 +6,7 @@ name: "Dorris Scott"
 draft: false
 ---
 
-![alt](/img/team/dorris.jpg)
+{{< figure src="images/profile.jpg" width="300" >}}
 
 
 Dorris Scott is the GIS Librarian and Social Science Data Curator at Washington University – St. Louis, where she provides consultation on projects that use geospatial data along with providing training in various GIS software, programming applications of geospatial data, and data management. She also serves as a liaison between Washington University Libraries and social science departments assisting faculty  with their data needs such as data management and data curation. Dorris received her PhD in Geography from the University of Georgia, with a specialization in GIS applications for public health.
