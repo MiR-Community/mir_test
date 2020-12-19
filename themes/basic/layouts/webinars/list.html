@@ -14,7 +14,8 @@
 
   	<!-- Grid row -->
     <div class="row">
-
+    
+    
      {{ range (.Paginator 10).Pages }}
         {{ partial "post_summary.html" . }}
     {{ end }}
