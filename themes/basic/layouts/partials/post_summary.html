@@ -1,26 +1,29 @@
-
-
-
-
-
-     <!-- Grid column -->
+   <!-- Grid column -->
     <div class="col-lg-4 col-md-12 mb-lg-0 mb-4">
         <!-- Card -->
         <div class="card hoverable">
 
           <!-- Card image -->
 
-          {{ with .Resources.ByType "image"}}
+          {{if .Resources.Match "images/featured.jpg"}}
 
-            {{range .}}
+            {{ with .Resources.Match "images/featured.jpg"}}
+
+              {{range .}}
 
                 <img class="card-img-top" src="{{.RelPermalink}}" alt="Card image cap">
 
-
+              {{end}}
 
             {{end}}
 
+          {{else}}
+              <h2>false</h2>
+
+
           {{end}}
+
+      
            
 
           <!-- Card content -->
