@@ -9,7 +9,19 @@
         <div class="card hoverable">
 
           <!-- Card image -->
-          <img class="card-img-top" src="/img/team/dorris.jpg" alt="Card image cap">
+
+          {{ with .Resources.ByType "image"}}
+
+            {{range .}}
+
+                <img class="card-img-top" src="{{.RelPermalink}}" alt="Card image cap">
+
+
+
+            {{end}}
+
+          {{end}}
+           
 
           <!-- Card content -->
           <div class="card-body">
@@ -32,7 +44,3 @@
         <!-- Card -->
     </div>
  <!-- Grid column -->
-
-
-
-

@@ -1,0 +1,5 @@
+https://budidev.com/2020/04/getting-errors-order-taxonomies-when-deploy-hugo-site-to-netlify/
+
+https://regisphilibert.com/blog/2018/01/hugo-page-resources-and-how-to-use-them/
+
+https://discourse.gohugo.io/t/access-page-resources-from-list-templates/21594/5

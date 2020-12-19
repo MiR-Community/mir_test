@@ -5,6 +5,9 @@ draft: false
 author: The Child
 year: "2020"
 month: "2020/01"
+featured: "img/featured/dorris.jpg"
+test: "images/profile.jpg"
+
 categories:
 - Personal
 - Thoughts
