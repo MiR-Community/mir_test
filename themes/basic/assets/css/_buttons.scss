@@ -18,6 +18,9 @@
   
   .btn-sm-rounded{
     border-radius: 40px;
+    color: $white;
+
+
   }
 
 .btn-primary{
@@ -26,6 +29,11 @@
     &:hover{
       background: darken($color: $primary-color, $amount: 10);
     }
+
+  }
+
+  .btn-primary a{
+    color:$white;
   }
 
   .btn-secondary{

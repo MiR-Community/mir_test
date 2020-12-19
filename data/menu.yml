@@ -12,3 +12,7 @@ menu:
   - name: "Webinars"
     url: "/webinars"
 
+  - name: "Join MiR"
+    url: "/contact"
+
+

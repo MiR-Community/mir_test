@@ -13,20 +13,28 @@
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav ml-auto">
 
-      {{ range .Site.Data.menu.menu.main}}
-
-        
-      <li class="nav-item">
-        <a class="nav-link" href="{{.url}}">{{.name}} </a>
-      </li>
-
-      {{ end }}
+     
       
+       {{$menu := (.Site.Data.menu.menu.main)}} 
+        {{$len := (len $menu)}} 
+
+        {{ range $index, $element := $menu }} 
+          {{ if eq (add $index 1) $len }}
+              <button type="button"  class="btn btn-primary "> <a href="#">{{.name}}</a>
+</button>
+
+          {{ else }}
+          <li class="nav-item">
+            <a class="nav-link" href="{{ .url | absURL }}"
+              >{{ .name }}</a
+            >
+          </li>
+          {{ end }} 
+        {{ end }}
 
  
 
     </ul>
-    <button type="button"  class="btn btn-primary ">Join MiR</button>
   </div>
 </nav>
 
