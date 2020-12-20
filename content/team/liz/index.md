@@ -6,7 +6,7 @@ name: "Liz Hare"
 draft: false
 ---
 
-{{< figure src="images/profile.jpg" width="300" >}}
+{{< figure src="images/profile.jpg" width="300" height="350">}}
 
 
 
