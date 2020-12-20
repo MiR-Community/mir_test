@@ -1,3 +1,9 @@
-{{ define "main" }}
-<h2>Hello world</h2>
-{{ end }}
+{{ define "main"}}
+
+    <h1>{{.Title}}</h1>
+
+    <div class="team-content d-flex justify-content-around">
+        {{ .Content}}
+    </div>
+
+{{ end}}

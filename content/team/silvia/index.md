@@ -1,7 +1,7 @@
 ---
 title: "Silvia"
 date: 2020-12-11T21:49:32-06:00
-type: "Core Committee Member"
+brand: "Core Committee Member"
 name: "Silvia Canelón"
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Liz"
 date: 2020-12-11T21:51:41-06:00
-type: "Core Committee Member"
+brand: "Core Committee Member"
 name: "Liz Hare"
 draft: false
 ---

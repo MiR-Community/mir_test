@@ -1,7 +1,7 @@
 ---
 title: "Yanina"
 date: 2020-12-11T21:51:14-06:00
-type: "Core Committee Member"
+brand: "Core Committee Member"
 name: "Yanina Bellini Saibene"
 draft: false
 ---

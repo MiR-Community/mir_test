@@ -1,7 +1,7 @@
 ---
 title: "Dorris"
 date: 2020-12-11T21:27:12-06:00
-type: "Co-founder"
+brand: "Co-founder"
 name: "Dorris Scott"
 draft: false
 ---
