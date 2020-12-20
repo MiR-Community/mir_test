@@ -9,7 +9,7 @@
             class="avatar w-100 white d-flex justify-content-center align-items-center"
           >
            <a href="/team/{{.page}}"> <img
-              src="{{ .image | absURL }}"
+              src="{{ .image | relURL }}"
               class="img-fluid rounded-circle z-depth-1"
             /></a>
           </div>

@@ -20,12 +20,12 @@
 
         {{ range $index, $element := $menu }} 
           {{ if eq (add $index 1) $len }}
-              <button type="button"  class="btn btn-primary "> <a href="#">{{.name}}</a>
+              <button type="button"  class="btn btn-primary "> <a href="{{.url | relURL}}">{{.name}}</a>
 </button>
 
           {{ else }}
           <li class="nav-item">
-            <a class="nav-link" href="{{ .url | absURL }}"
+            <a class="nav-link" href="{{ .url | relURL }}"
               >{{ .name }}</a
             >
           </li>
