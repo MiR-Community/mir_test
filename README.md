@@ -42,11 +42,11 @@ Go into the data folder and modify the about.yml file.
 
 ## How to modify css
 
-_variables.scss is where all the theme colors are located
-_buttons.scss is the css styles for the buttons
-_typography.scss  is where the fonts for the theme are located
-_navigation.scss is where the navigation styles are located
-_team-single.scss is where the location of the layout stay for individual team members are located.
+* _variables.scss is where all the theme colors are located
+* _buttons.scss is the css styles for the buttons
+* _typography.scss  is where the fonts for the theme are located
+* _navigation.scss is where the navigation styles are located
+* _team-single.scss is where the location of the layout stay for individual team members are located.
 
 ## Features
 
