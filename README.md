@@ -4,6 +4,11 @@ This is a custom made site for the Mir Community. The design is heavily inspired
 
 ## Installation
 
+`git clone https://github.com/zaynaib/mir_test.git`
+
+If you have hugo already installed run
+
+`hugo server` to build the site
 
 ## Creating Team Member Profile images
 
@@ -21,6 +26,15 @@ Go to content and under the team folder create a hugo bundle. In the bundle crea
 
 Go into the data folder and modify the menu.yml file. The last item in the yml file will be the pink contact button.
 
+## How to modify links for footer
+
+Go to the config.toml file and modify 
+
+```
+[params.footer]
+
+```
+
 
 ## How to modify the about page
 
@@ -28,7 +42,12 @@ Go into the data folder and modify the about.yml file.
 
 ## How to modify css
 
+_variables.scss is where all the theme colors are located
+_buttons.scss is the css styles for the buttons
+_typography.scss  is where the fonts for the theme are located
+_navigation.scss is where the navigation styles are located
+_team-single.scss is where the location of the layout stay for individual team members are located.
 
 ## Features
 
-
+Bootstrap 4

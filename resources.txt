@@ -7,3 +7,5 @@ https://discourse.gohugo.io/t/recommended-reading-reference/14815
 https://www.andrewhoog.com/post/git-submodule-for-hugo-themes/
 
 https://www.vogella.com/tutorials/GitSubmodules/article.html
+
+https://github.com/escalate/hugo-split-theme
