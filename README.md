@@ -12,10 +12,9 @@ Go to static > img > team  and place your picture in the team folder.
 
 Next go to the data folder and edit the team.yml file to include another team member.
 
-## Creating Team Member Pages
+## Creating Individual Team Member Pages
 
-Go to the team folder and create a bundle.
-
+Go to content and under the team folder create a hugo bundle. In the bundle create a folder called **images**. Save your photo as **profile.jpg**.
 
 
 
