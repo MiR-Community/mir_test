@@ -2,6 +2,7 @@
 
 This is a custom made site for the Mir Community. The design is heavily inspired by  [StaticMania roxo-hugo design](https://github.com/StaticMania/roxo-hugo)
 
+## Installation
 
 
 ## Creating Team Member Profile images
@@ -16,12 +17,16 @@ Next go to the data folder and edit the team.yml file to include another team me
 
 Go to content and under the team folder create a hugo bundle. In the bundle create a folder called **images**. Save your photo as **profile.jpg**.
 
+## How to modify the navigation menu
+
+Go into the data folder and modify the menu.yml file. The last item in the yml file will be the pink contact button.
 
 
-## Live Demo
+## How to modify the about page
 
+Go into the data folder and modify the about.yml file.
 
-## Installation
+## How to modify css
 
 
 ## Features

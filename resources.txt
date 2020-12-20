@@ -4,4 +4,6 @@ https://regisphilibert.com/blog/2018/01/hugo-page-resources-and-how-to-use-them/
 
 https://discourse.gohugo.io/t/access-page-resources-from-list-templates/21594/5
 https://discourse.gohugo.io/t/recommended-reading-reference/14815
+https://www.andrewhoog.com/post/git-submodule-for-hugo-themes/
 
+https://www.vogella.com/tutorials/GitSubmodules/article.html
